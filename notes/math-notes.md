@@ -1,10 +1,12 @@
 # Hormetic-and-hydra-effects-in-a-discrete-predator-prey-model
 Appendix: Supplementary Information for Review Only
+
 \appendix{Proof of the Flip bifurcation}
 \label{TheoremA}
 \noindent
 \begin{proof}
 Take $u=x-x_{3}$, $v=y-y_{3}$, $\gamma = q_2 -{q_2}^{*}$ and transform the unique positive fixed point $E_{3}=(x_{3}, y_{3})$ to the origin, $\gamma$ is a new dependent variable. The system (\ref{map_out}) is transformed into the following form
+
 \begin{equation}
 \left(\begin{array}{l}
 u \\
